@@ -1,3 +1,7 @@
-# Agent App
+# Agent UI
 
-# TODO: ADD README
+- run `npm i`
+- run `npm run dev`
+- visit `localhost:5173`
+
+
